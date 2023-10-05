@@ -1,0 +1,11 @@
+﻿{
+  "Name": "新しいアプリケーション",
+  "Type": "App",
+  "Id": "j3rjfm4aqk-I4lCvU7EDFw",
+  "Reference": "rIFcm-YsBEe2wTq5bsFHig/j3rjfm4aqk-I4lCvU7EDFw",
+  "Created": "2023-10-04T09:53:01.1968238Z",
+  "Updated": "2023-10-04T09:53:01.1968238Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
